@@ -1,6 +1,9 @@
 # Hi there 👋
 Yo what's up there!
 
+## Currently Working on
+[![SMAPA Marketplace](https://svg.bookmark.style/api?url=https://github.com/diazleonata/smapamart&mode=light&style=horizontal)](https://github.com/diazleonata/smapamart)
+
 ## Stats
 ![Diaz Leonata's GitHub stats](https://github-readme-stats.vercel.app/api?username=diazleonata&theme=gotham&show_icons=true)
 <!--
