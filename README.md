@@ -2,6 +2,7 @@
 Yo what's up there!
 
 ## Currently Working on
+[![Nutrition AI Scanner](https://svg.bookmark.style/api?url=https://github.com/diazleonata/nutritionaiscanner&mode=light&style=horizontal)](https://github.com/diazleonata/nutritionaiscanner)
 [![SMAPA Marketplace](https://svg.bookmark.style/api?url=https://github.com/diazleonata/smapamart&mode=light&style=horizontal)](https://github.com/diazleonata/smapamart)
 
 ## Stats
