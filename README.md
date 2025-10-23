@@ -1,8 +1,10 @@
 # Hi there 👋
 Yo what's up there!
 
+<!--
 ## Currently Working on
 [![SMAPA Marketplace](https://svg.bookmark.style/api?url=https://github.com/diazleonata/smapamart&mode=light&style=horizontal)](https://github.com/diazleonata/smapamart)
+-->
 
 ## Stats
 ![diazleonata's Stats](https://github-readme-stats.vercel.app/api?username=diazleonata&theme=dark&show_icons=true&hide_border=true&count_private=true)
